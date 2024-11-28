@@ -1,3 +1,6 @@
 console.log("Hello Everyone...")
 let res=document.querySelector(".home")
 console.log(res.textContent)
+console.log("This is about javascript.....")
+console.log("And here we are learning about DOM manupilation...")
+console.log("And also about BOM...")
